@@ -1,4 +1,4 @@
 sample
 ======
 
-Simple start
+Im newbie to Github. 
